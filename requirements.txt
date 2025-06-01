@@ -1,0 +1,6 @@
+fastapi
+httpx
+uvicorn
+beautifulsoup4
+lxml
+python-dotenv
